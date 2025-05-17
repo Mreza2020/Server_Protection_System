@@ -1,0 +1,8 @@
+# Develop tools
+.idea/
+.vscode/
+.env
+config.yaml
+*.log
+
+
