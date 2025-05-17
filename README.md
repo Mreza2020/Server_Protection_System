@@ -61,10 +61,12 @@ Package features:
   
 ---------------------------------------
 ## Installation
+> [!IMPORTANT]
+>It is definitely recommended to install the packages mentioned above separately and then install the package below.
 
 To install the package, simply enter the following command:
 ```bash
-go get -u github.com/Mreza2020/Server_Protection_System
+go get -u github.com/Mreza2020/Server_Protection_System/Structure_Cod
 ```
 
 This system helps you write shorter code.
@@ -181,6 +183,7 @@ Note :
 To use it, you need to download FFmpeg on your system.
 This FFmpeg is used to increase security.
 
+
 ## image
 
 If you need to get a photo from a user in your application, don't worry at all. It is easily provided for you in the `Image_Get_Api` package. The usage is as follows:
@@ -217,3 +220,8 @@ For example:
 ```go
 Api.POST("/Image", Image_Get_Api)
 ```
+---------------------------
+I would be happy if you email me your opinion :
+mreza_4040@outlook.com
+
+
